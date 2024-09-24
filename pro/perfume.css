@@ -1,0 +1,55 @@
+
+nav{
+    background-color: black;
+    color: white;
+    height: 30px;
+    
+}
+li,h1,ul{
+    display: inline;
+
+}
+ul{
+    margin-left: 40%;
+}
+input{
+    padding: 10px;
+}
+.box-img{
+    border-color: black;
+    display: block;
+   
+    border-width: 2px;
+    border-style: solid;
+    width: 192px;
+    display: block;
+    margin-left: 30px;
+    
+}
+.box-l{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    width: 185px;
+    margin-left: 25px;
+}
+.box-c{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    width: 195px;
+    margin-left: 25px;
+    
+}
+.one{
+    display: flex;
+    margin: 10px;
+}
+
+.pro{
+background-color: black;
+color: white;
+}
+.cen input{
+padding-left: 50%;
+}

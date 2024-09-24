@@ -1,0 +1,59 @@
+body{
+    background-color: black;
+    color: white;
+   
+   
+}
+nav{
+    background-color: black;
+    color: white;
+    height: 30px;
+    
+}
+p{
+    display: inline;
+}
+li,ul{
+    display: inline;
+        padding: 20px;
+   
+
+}
+
+
+.two{
+    border-color: rgb(229, 219, 219);
+    display: block;
+   
+    border-width: px;
+    border-style: hidden;
+    width: 204px;
+  
+    margin-left: 5px;
+    
+}
+.thr{
+    border-color: rgb(247, 244, 244);
+    border-width: px;
+    border-style:hidden;
+    width: 250px;
+    margin-left: 25px;
+ 
+   
+}
+.fou{
+    border-color: rgb(251, 245, 245);
+    border-width:px;
+    border-style: hidden;
+    width: 225px;
+    margin-left: 30px;
+  
+   
+    
+}
+.one{
+    display: flex;
+    margin: 10px;
+}
+
+
